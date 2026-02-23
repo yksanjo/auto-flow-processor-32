@@ -1,5 +1,12 @@
 # auto-flow-processor-32
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/auto-flow-processor-32/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/auto-flow-processor-32/actions)
+![License](https://img.shields.io/github/license/yksanjo/auto-flow-processor-32)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/auto-flow-processor-32)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/auto-flow-processor-32)
+
 ## Detailed Description
 
 auto-flow-processor-32 is maintained as an industry-grade software project with production-ready engineering practices.  
